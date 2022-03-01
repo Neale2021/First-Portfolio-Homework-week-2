@@ -9,3 +9,6 @@ Section 1:
 <img width="1787" alt="section 1" src="https://user-images.githubusercontent.com/98126694/156119137-cfb73d9c-07c4-4694-ae82-0671025c6870.png">
 
 section 2:
+<img width="1786" alt="Section 2" src="https://user-images.githubusercontent.com/98126694/156119297-09cdf5b3-d308-47c6-874b-1b8254985ac1.png">
+
+section 3:
